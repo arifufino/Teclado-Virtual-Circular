@@ -10,6 +10,8 @@ Ideal para pantallas táctiles, configuraciones personalizadas y usuarios que bu
 
 <img width="519" height="526" alt="image" src="https://github.com/user-attachments/assets/7bdc969e-30f8-4efa-ad72-27f007547ac7" />
 
+<img width="511" height="514" alt="image" src="https://github.com/user-attachments/assets/59d21657-d1dc-4f9c-950d-2d2d58f8a49e" />
+
 
 ---
 
