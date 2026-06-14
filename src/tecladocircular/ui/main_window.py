@@ -53,7 +53,7 @@ def _mic_log(message: str) -> None:
 
 # === SymSpell setup ===
 _sym_spell = SymSpell(max_dictionary_edit_distance=2, prefix_length=7)
-_dictionary_path = os.path.join(os.path.dirname(__file__), "es_50k.txt")
+_dictionary_path = os.path.join(os.path.dirname(__file__), "es_full.txt")
 _dict_loaded = _sym_spell.load_dictionary(_dictionary_path, term_index=0, count_index=1, encoding="utf-8")
 print(f"DEBUG: ruta={_dictionary_path}")
 print(f"DEBUG: existe archivo={os.path.exists(_dictionary_path)}")

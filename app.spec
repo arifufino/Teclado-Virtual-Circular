@@ -5,7 +5,7 @@ a = Analysis(
     ['src\\tecladocircular\\app.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('src\\tecladocircular\\ui\\es_full.txt', 'tecladocircular\\ui')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
