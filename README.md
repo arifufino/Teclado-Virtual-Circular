@@ -44,7 +44,8 @@ Simplemente:
 
 **Descarga directa de las versiones publicadas:**
 
-:contentReference[oaicite:0]{index=0}
+En el apartado derecho de este proyecto, se encuentra un titulo "Releases" en este se encuentra el ejecutable
+a descargar.
 
 ---
 
