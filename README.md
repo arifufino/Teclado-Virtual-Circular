@@ -8,7 +8,8 @@ Ideal para pantallas táctiles, configuraciones personalizadas y usuarios que bu
 
 ## 📸 Vista Previa
 
-> Agrega aquí capturas de pantalla o GIFs mostrando el funcionamiento del teclado.
+<img width="501" height="503" alt="image" src="https://github.com/user-attachments/assets/131325f7-67ad-4d2c-8fd3-989b4bb709a6" />
+
 
 ---
 
