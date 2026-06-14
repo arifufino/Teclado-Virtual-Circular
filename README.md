@@ -8,7 +8,7 @@ Ideal para pantallas táctiles, configuraciones personalizadas y usuarios que bu
 
 ## 📸 Vista Previa
 
-<img width="501" height="503" alt="image" src="https://github.com/user-attachments/assets/131325f7-67ad-4d2c-8fd3-989b4bb709a6" />
+<img width="519" height="526" alt="image" src="https://github.com/user-attachments/assets/7bdc969e-30f8-4efa-ad72-27f007547ac7" />
 
 
 ---
