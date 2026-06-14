@@ -44,8 +44,9 @@ Simplemente:
 
 **Descarga directa de las versiones publicadas:**
 
-<span style="color:red">En el apartado derecho de este proyecto, se encuentra un titulo "Releases" en este se encuentra el ejecutable
-a descargar.</span> y <span style="color:#008000">este verde</span>.
+En el apartado derecho de este proyecto, se encuentra un titulo "Releases" en este se encuentra el ejecutable
+a descargar.
+
 ---
 
 ## 📦 Instalación desde Código Fuente (Opcional)
