@@ -1,0 +1,6 @@
+PyQt6>=6.0
+pynput>=1.7
+pywin32>=305
+python-dotenv>=1.0
+typing_extensions>=4.8
+symspellpy>=26.1.2
