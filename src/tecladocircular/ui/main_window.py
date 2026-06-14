@@ -777,10 +777,11 @@ class MicrophonePanel(QWidget):
             _mic_log(f"Abriendo Microphone(device_index={self._selected_device_index})")
             with sr.Microphone(device_index=self._selected_device_index) as source:
                 _mic_log("Microphone abierto. Ajustando ruido ambiente...")
-                recognizer.adjust_for_ambient_noise(source, duration=0.5)
+                recognizer.adjust_for_ambient_noise(source, duration=0.25)
                 _mic_log("Ruido ambiente ajustado. Escuchando audio...")
                 audio = recognizer.listen(source, timeout=6, phrase_time_limit=10)
                 _mic_log("Audio capturado. Enviando a Google Speech API...")
+                recognizer.pause_threshold = 0.5
 
             text = recognizer.recognize_google(audio, language="es-ES")
             _mic_log(f"Texto reconocido: '{text}'")
